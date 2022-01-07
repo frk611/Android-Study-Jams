@@ -2,8 +2,36 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
+        android:id="@+id/action_login"
+        android:orderInCategory="100"
+        android:title="Login"
+        app:showAsAction="never"/>
+
+    <!--this is the function to redirect to nsec.ac.in-->
+    <item
+        android:id="@+id/action_website"
+        android:orderInCategory="100"
+        android:title="Website"
+        app:showAsAction="never"/>
+
+<!--    this is a function to redirect to makaut student portal to check academic records-->
+    <item
+        android:id="@+id/action_studentlogin"
+        android:orderInCategory="100"
+        android:title="Student Login"
+        app:showAsAction="never"/>
+
+    <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
+
+<!--    this will be a function to rate the app in play store-->
+    <item
+        android:id="@+id/action_rate"
+        android:orderInCategory="100"
+        android:title="Rate Us"
+        app:showAsAction="never" />
+
 </menu>
