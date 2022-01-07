@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidDevPractise/UniverityApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidDevPractise/UniverityApp/app/src/main/res/layout/app_bar_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/AndroidDevPractise/UniverityApp/app/src/main/res/layout/content_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/AndroidDevPractise/UniverityApp/app/src/main/res/layout/fragment_gallery.xml" value="0.18645833333333334" />
+        <entry key="..\:/AndroidDevPractise/UniverityApp/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
         <entry key="..\:/Users/faruq/Downloads/UniversitApp/app/src/main/res/layout/activity_main.xml" value="0.15172101449275363" />
         <entry key="..\:/Users/faruq/Downloads/UniversitApp/app/src/main/res/layout/app_bar_main.xml" value="0.14666666666666667" />
         <entry key="..\:/Users/faruq/Downloads/UniversitApp/app/src/main/res/layout/content_main.xml" value="0.15172101449275363" />
